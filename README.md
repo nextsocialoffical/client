@@ -1,4 +1,18 @@
-# SangriaMart
+#Nextsocialoffical
+
+#Description
+#Discover, research, and social NFTs, Basically, You can all NFTs and publication data in one place.
+A decentralized NFT Marketplace built on Polygon
+Also planning to build A decentralized NFT Marketplace built on Polygon
+-NFT Publication List
+-NFT list o-f owner lens protocols
+
+Also, We have developed an NFT contract  and marketplace which attach with your application
+
+We have plan delop boilerplate
+ - Module development over lens protocols
+ - React app consume lens graph api
+ - Smart contract which us lens protocol smart as base 
 
 # A decentralized NFT Marketplace built on Polygon
 
