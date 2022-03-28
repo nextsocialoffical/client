@@ -1,7 +1,7 @@
-#Nextsocialoffical
+# Nextsocialoffical
 
-#Description
-#Discover, research, and social NFTs, Basically, You can all NFTs and publication data in one place.
+# Description
+# Discover, research, and social NFTs, Basically, You can all NFTs and publication data in one place.
 A decentralized NFT Marketplace built on Polygon
 Also planning to build A decentralized NFT Marketplace built on Polygon
 -NFT Publication List
